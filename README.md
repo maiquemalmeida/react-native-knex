@@ -15,7 +15,7 @@ to be installed and configured first.**
 We have several examples [on the website](http://knexjs.org)
 
 ## Run on React Native
-1. add ```"react-native-sqlite-storage": "https://github.com/sergeymild/react-native-sqlite-storage"```
+1. add ```"react-native-sqlite-storage": "https://github.com/maiquemalmeida/react-native-sqlite-storage"```
 2. add ```"react-native-knex": "https://github.com/maiquemalmeida/react-native-sqlite-storage"```
 ```js
 import factory, { setSQLiteDebug } from "react-native-sqlite-storage";
